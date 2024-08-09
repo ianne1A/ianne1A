@@ -1,16 +1,13 @@
-## Hi there 👋
+### Bem vindos a minha continha 😺
 
-<!--
-**ianne1A/ianne1A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é ianne 🐷
 
-Here are some ideas to get you started:
+⭐Sou estudande do berreta 🤓
+⭐Estou me desenvolvendo na linguagem do JavaScript 🙀
+⭐Vou usar essa conta para trabalhos escolares 😝
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Vocês podem me contatar pelas minhas redes sociais ou email 🦋
+@ian_.gs no instagram 😙
+iannegizelly@gmail 💕
+
+![](https://media.tenor.com/7xUAO88w9MUAAAAi/thumbs-down-thumbs-down-cat.gif)
